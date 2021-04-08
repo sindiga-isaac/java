@@ -26,7 +26,7 @@ public class Main
 		        int x=console.nextInt();//input the 1st integer read as x//
 		        int y=console.nextInt();//2nd integer read as y//
 		        System.out.println("X = "+x);//the system displays the value of x//
-		        System.out.println("Y = "+y);//the system displays the value for y//
+		        System.out.println("Y = "+y);//the ksystem displays the value for y//
 		        String max=(x>y)?"x" : "y";//ternary operator used to determine the maximum integer//
 		        System.out.println("The maximum number of the two= "+max);//displays the maximum integer//
 		    break;//end of 2nd switch statement//
